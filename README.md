@@ -34,7 +34,7 @@ Deployment: Vercel / Render / Docker
 
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/codeflex-ai.git
+git clone https://github.com/RishabhArt/Codeflex-AI.git
 cd codeflex-ai
 
 2️⃣ Install dependencies
