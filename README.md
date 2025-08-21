@@ -3,8 +3,10 @@ CodeFlex AI 🤖✨
 An advanced AI-powered coding assistant that helps developers write, debug, and optimize code efficiently. Built with Next.js, Node.js, and modern AI APIs, CodeFlex AI provides real-time suggestions, explanations, and project scaffolding to boost developer productivity.
 
 🔗 Live Demo
+ codeflex-ai-pi.vercel.app
 
 👉 View Live Project
+ https://vercel.com/rishabhshan7-gmailcoms-projects/codeflex-ai/EEFykfaJG9jo2oMU7K9z8FzEAN1Z
 
 📌 Features
 
@@ -48,9 +50,6 @@ NEXT_PUBLIC_API_KEY=your_api_key_here
 
 4️⃣ Run the development server
 npm run dev
-
-
-App runs at 👉 http://localhost:3000
 
 
 
